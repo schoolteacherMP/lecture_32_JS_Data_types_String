@@ -24,7 +24,11 @@
 ![image](https://user-images.githubusercontent.com/113675674/213663586-80ec11be-3029-4aea-9204-eada0ee0afeb.png)  
 
 ## Задача 5.   
-### 
+### Reversed Words  
+Завершите решение, чтобы оно перевернуло все слова в переданной строке.  
+Слова разделены ровно одним пробелом, и нет ни начальных, ни конечных пробелов.  
+Можно воспользоватьвся методами: split(), reverse(), join()  
+![image](https://user-images.githubusercontent.com/113675674/213664218-84a9e534-b271-4b15-be1f-0afcff341df7.png)  
 
 ## Задача 6.   
 ### 
