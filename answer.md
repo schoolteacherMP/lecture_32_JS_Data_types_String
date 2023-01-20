@@ -16,7 +16,6 @@
 ## Задача 4.   
 ### String repeat  
 ![image](https://user-images.githubusercontent.com/113675674/213663739-50480a07-6829-45e9-b452-6962ea1431fc.png)  
-![image](https://user-images.githubusercontent.com/113675674/213664351-31ee231c-2b56-49c8-91b1-7db71d4177ca.png)
 
 ## Задача 5.   
 ### Reversed Words  
