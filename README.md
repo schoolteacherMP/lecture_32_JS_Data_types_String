@@ -10,4 +10,4 @@
 - Строки также имеют ещё кое-какие полезные методы:  
 - str.trim() — убирает пробелы в начале и конце строки.  
 - str.repeat(n) — повторяет строку n раз.  
-- …и другие, которые вы можете найти в #  [справочнике ](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String)  .  
+- …и другие, которые вы можете найти в   [справочнике ](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String)  .  
