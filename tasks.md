@@ -36,8 +36,8 @@
 ### гласные  
 Создайте функцию с именем shortcut  для удаления строчных гласных (a, e, i, o, u) в заданной строке.  
 ![image](https://user-images.githubusercontent.com/113675674/213674417-ddedfc84-894c-4875-a01c-6aab77bcae97.png)  
-![image](https://user-images.githubusercontent.com/113675674/213674276-ce5f3382-929e-4c70-a722-2a776c6489d6.png)
-
+![image](https://user-images.githubusercontent.com/113675674/213674276-ce5f3382-929e-4c70-a722-2a776c6489d6.png)  
+ Можно воспользоваться методом [replace()](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/replace)  
 
 ## Задача 7.   
 ### 
