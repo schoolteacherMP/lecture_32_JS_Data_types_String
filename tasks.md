@@ -39,17 +39,24 @@
 Можно воспользоваться методом [parseInt()](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/parseInt)  
 
 ## Задача 7.   
+### Remove First and Last Character  
+Это довольно просто. Ваша цель — создать функцию removeChar, которая удаляет первый и последний символы строки. Вам дан один параметр, исходная строка.  
+
+## Задача 8.   
 ### гласные  
 Создайте функцию с именем shortcut  для удаления строчных гласных (a, e, i, o, u) в заданной строке.  
 ![image](https://user-images.githubusercontent.com/113675674/213674417-ddedfc84-894c-4875-a01c-6aab77bcae97.png)  
 ![image](https://user-images.githubusercontent.com/113675674/213674276-ce5f3382-929e-4c70-a722-2a776c6489d6.png)  
  Можно воспользоваться методом [replace()](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/replace)  
 
-## Задача 8.   
-### 
-
 ## Задача 9.   
-### 
+### makeUpperCase  
+Напишите функцию makeUpperCase, которая преобразует входную строку в верхний регистр.  
 
 ## Задача 10.   
-### 
+### Is the string uppercase?  
+Нужно написать функцию isUpperCase, которая будет проверять на верхний регистр строку и возвращать true в консоль если все буквы в верхнем регистре, иначе false.  
+![image](https://user-images.githubusercontent.com/113675674/213681906-4e8f059e-5885-45e4-83ed-7798072a5b9b.png)  
+
+
+
