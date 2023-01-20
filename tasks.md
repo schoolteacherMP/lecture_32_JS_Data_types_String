@@ -33,14 +33,17 @@
 ![image](https://user-images.githubusercontent.com/113675674/213664218-84a9e534-b271-4b15-be1f-0afcff341df7.png)  
 
 ## Задача 6.   
+### Convert a String to a Number  
+Нам нужна функция stringToNumber, которая может преобразовать строку в число.  
+![image](https://user-images.githubusercontent.com/113675674/213675675-723f1e3e-fd24-48f7-8c38-d0b1fbd732d8.png)  
+Можно воспользоваться методом [parseInt()](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/parseInt)  
+
+## Задача 7.   
 ### гласные  
 Создайте функцию с именем shortcut  для удаления строчных гласных (a, e, i, o, u) в заданной строке.  
 ![image](https://user-images.githubusercontent.com/113675674/213674417-ddedfc84-894c-4875-a01c-6aab77bcae97.png)  
 ![image](https://user-images.githubusercontent.com/113675674/213674276-ce5f3382-929e-4c70-a722-2a776c6489d6.png)  
  Можно воспользоваться методом [replace()](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/replace)  
-
-## Задача 7.   
-### 
 
 ## Задача 8.   
 ### 
