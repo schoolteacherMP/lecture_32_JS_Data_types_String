@@ -21,6 +21,7 @@
 ## Задача 4.   
 ### String repeat  
 Напишите функцию, которая принимает целое число **n** и строку **s** в качестве параметров и возвращает строку **s**, повторяющуюся ровно **n** раз.  
+![image](https://user-images.githubusercontent.com/113675674/213665223-31a60f82-e69e-40ed-a952-0b10dfbafcd7.png)
 ![image](https://user-images.githubusercontent.com/113675674/213663586-80ec11be-3029-4aea-9204-eada0ee0afeb.png)  
 
 ## Задача 5.   
@@ -32,7 +33,14 @@
 ![image](https://user-images.githubusercontent.com/113675674/213664218-84a9e534-b271-4b15-be1f-0afcff341df7.png)  
 
 ## Задача 6.   
-### 
+### гласные  
+Создайте функцию с именем shortcut  для удаления строчных гласных (a, e, i, o, u) в заданной строке.  
+let string = 'hello';  
+function shortcut (string) {  
+  return '';  
+}  
+![image](https://user-images.githubusercontent.com/113675674/213674276-ce5f3382-929e-4c70-a722-2a776c6489d6.png)
+
 
 ## Задача 7.   
 ### 
